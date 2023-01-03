@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-port/static/css/main.b02b2a59.css",
+    "main.js": "/react-port/static/js/main.16114766.js",
+    "static/media/tasteEat.png": "/react-port/static/media/tasteEat.7aca5c5b988de05ae769.png",
+    "static/media/vueCinema.png": "/react-port/static/media/vueCinema.78c05129f67a3d53d82f.png",
+    "static/media/valmari.png": "/react-port/static/media/valmari.b796ccc92af0c5cc0754.png",
+    "static/media/luxuryw.jpg": "/react-port/static/media/luxuryw.4c462d1f9e477840061e.jpg",
+    "static/media/books.jpg": "/react-port/static/media/books.02d5d6c3ec937e1ceab2.jpg",
+    "static/media/logotm.png": "/react-port/static/media/logotm.9decb6ee26ca7e4feeea.png",
+    "static/media/canvasCloth.png": "/react-port/static/media/canvasCloth.b7e2d9bec72afc6c4203.png",
+    "static/media/particle.png": "/react-port/static/media/particle.8649894d98e673fcadf8.png",
+    "static/media/ticket.png": "/react-port/static/media/ticket.097fd09b97d7fbe2a978.png",
+    "static/media/calc.png": "/react-port/static/media/calc.fd9516037d64bd29c8c3.png",
+    "index.html": "/react-port/index.html",
+    "main.b02b2a59.css.map": "/react-port/static/css/main.b02b2a59.css.map",
+    "main.16114766.js.map": "/react-port/static/js/main.16114766.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02b2a59.css",
+    "static/js/main.16114766.js"
+  ]
+}

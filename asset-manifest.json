@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-port/static/css/main.b02b2a59.css",
-    "main.js": "/react-port/static/js/main.16114766.js",
+    "main.css": "/react-port/static/css/main.92bf1b27.css",
+    "main.js": "/react-port/static/js/main.15de06f7.js",
     "static/media/tasteEat.png": "/react-port/static/media/tasteEat.7aca5c5b988de05ae769.png",
     "static/media/vueCinema.png": "/react-port/static/media/vueCinema.78c05129f67a3d53d82f.png",
     "static/media/valmari.png": "/react-port/static/media/valmari.b796ccc92af0c5cc0754.png",
@@ -13,11 +13,11 @@
     "static/media/ticket.png": "/react-port/static/media/ticket.097fd09b97d7fbe2a978.png",
     "static/media/calc.png": "/react-port/static/media/calc.fd9516037d64bd29c8c3.png",
     "index.html": "/react-port/index.html",
-    "main.b02b2a59.css.map": "/react-port/static/css/main.b02b2a59.css.map",
-    "main.16114766.js.map": "/react-port/static/js/main.16114766.js.map"
+    "main.92bf1b27.css.map": "/react-port/static/css/main.92bf1b27.css.map",
+    "main.15de06f7.js.map": "/react-port/static/js/main.15de06f7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b02b2a59.css",
-    "static/js/main.16114766.js"
+    "static/css/main.92bf1b27.css",
+    "static/js/main.15de06f7.js"
   ]
 }

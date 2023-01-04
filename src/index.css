@@ -1,0 +1,89 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Raleway';
+}
+.asd {
+  text-align: center;
+  font-family: 'Raleway ';
+  font-size: 24px;
+  line-height: 20px;
+}
+.particle {
+  width: 200px;
+  height: 150px;
+  border-radius: 15px;
+}
+.cloth {
+  width: 200px;
+}
+.cloth img {
+  border-radius: 15px;
+  width: 300px;
+  height: 150px;
+}
+.main-wrap {
+  margin-bottom: 120px;
+}
+.wrap {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.ticket,
+.calc {
+  width: 200px;
+  height: 300px;
+  border-radius: 15px;
+}
+.secRow {
+  /* width: 550px; */
+  color: #fff;
+  background-color: #32507d;
+  border-radius: 1.5rem;
+  padding: 1rem;
+  /* margin-bottom: 0.5rem; */
+}
+.text {
+  background-color: #32507d;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 1rem;
+  font-size: 1rem;
+  letter-spacing: 10px;
+}
+
+@layer base {
+  body{
+    @apply font-[Raleway]
+  }
+  li{
+    @apply px-4;
+    @apply cursor-pointer;
+  }
+}
+
+.content-div {
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: top;
+  height: 250px;
+}
+.content-div:hover {
+  
+  background-image: 
+    linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%)!important;
+}
+.pad {
+  margin: 10px 0;
+  padding: 1rem;
+  border-radius: 15px;
+}
+.ma-xw {
+  max-width: 600px;
+}
+.paral {
+  height: 100vh;
+}
